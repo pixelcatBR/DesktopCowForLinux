@@ -1,6 +1,6 @@
 ## DesktopCow For Linux
 
-This is a port of the DesktopCow pet for Linux. It was created by me, and below I have included the original text for DesktopCow.
+This is a fan-made adaptation of the DesktopCow for Linux. It was created by me, and below I have included the original text for DesktopCow.
 
 ## Abstrakt
 
