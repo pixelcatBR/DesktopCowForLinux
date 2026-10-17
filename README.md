@@ -1,3 +1,7 @@
+## DesktopCow For Linux
+
+This is a port of the DesktopCow pet for Linux. It was created by me, and below I have included the original text for DesktopCow.
+
 ## Abstrakt
 
 A simple Desktop-Pet that is driven by Chance. 
