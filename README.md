@@ -1,6 +1,6 @@
 ## DesktopCow For Linux
 
-This is a fan-made adaptation of the DesktopCow for Linux. It was created by me, and below I have included the original text for DesktopCow.
+This is a fan-made adaptation of the DesktopCow for Linux. the original project is from moonrain479, and below I have included the original text for DesktopCow.
 
 ## Abstrakt
 
