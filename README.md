@@ -1,6 +1,6 @@
 # DesktopCow for Linux
 
-Fan-made, unofficial adaptation of [DesktopCow](https://github.com/Moonrain479/DesktopCow/) by [@moonrain479](https://github.com/Moonrain479/) to Linux.
+Fan-made, unofficial fork of [DesktopCow](https://github.com/Moonrain479/DesktopCow/) by [@moonrain479](https://github.com/Moonrain479/) to Linux.
 Original project has no license. Not affiliated with the original author.
 If you're the original author and want this removed, just tell me.
 
